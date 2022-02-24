@@ -45,3 +45,13 @@ figure {
 figcaption {
   font-size: .8em;
 }
+
+@media screen and (max-width: 500px) {
+  article {
+    font-size: large;
+  }
+
+  h1 {
+    font-size: x-large;
+  }
+}
