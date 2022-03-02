@@ -54,4 +54,13 @@ figcaption {
   h1 {
     font-size: x-large;
   }
+  
+  img {
+    margin-bottom: 34px;
+  }
+
+  body {
+    margin: 20px;
+  }
+
 }
